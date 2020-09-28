@@ -1,5 +1,5 @@
 # IMASCII
-Converts normal image to ascii pattern
+Converts normal image to ascii pattern and saves it in a text(.txt) file format.
 
 ## Installation
 - `pip3 install -r requirements.txt`  <br><br>
